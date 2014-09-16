@@ -330,7 +330,7 @@ h1 {
 	text-indent:-9999px;
 }
 	h1 a {
-		width:585px;
+		width:1170px;
 		height:73px;
 		position:absolute;
 		left:0;
@@ -416,6 +416,8 @@ header nav {
 		header nav ul li a.m1 {
 			width:180px;
 			font-size:24px;
+			border:solid 2px #000000;
+		
 		}
 		header nav ul li.current a.m1 {
 			background-image:url(../images/m1-act.jpg);
@@ -423,6 +425,7 @@ header nav {
 		header nav ul li a.m2 {
 			width:170px;
 			font-size:24px;
+			border:solid 2px #000000;
 		}
 		header nav ul li.current a.m2 {
 			background-image:url(../images/m2-act.jpg);
@@ -430,6 +433,7 @@ header nav {
 		header nav ul li a.m3 {
 			width:200px;
 			font-size:24px;
+			border:solid 2px #000000;
 		}
 		header nav ul li.current a.m3 {
 			background-image:url(../images/m3-act.jpg);
@@ -437,6 +441,7 @@ header nav {
 		header nav ul li a.m4 {
 			width:190px;
 			font-size:24px;
+			border:solid 2px #000000;
 		}
 		header nav ul li.current a.m4 {
 			background-image:url(../images/m4-act.jpg);
@@ -448,6 +453,7 @@ header nav {
 			header nav ul li a.m5 {
 				width:168px;
 				font-size:24px;
+				border:solid 2px #000000;
 			}
 			header nav ul li.current a.m5 {
 				background-image:url(../images/m5-act.jpg);
