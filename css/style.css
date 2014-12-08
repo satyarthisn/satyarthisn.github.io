@@ -319,7 +319,7 @@ p {
 
 /*----- txt, links, lines, titles -----*/
 a {
-	color:#ff7b01; 
+	color:#4F72D1; 
 	outline:none;
 }
 a:hover {
@@ -342,6 +342,7 @@ h2 {
 	line-height:1.2em;
 	text-transform:uppercase;
 	margin-bottom:20px;
+	
 }
 	h2 span {
 		color:#8d8d8d;
