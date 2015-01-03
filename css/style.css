@@ -464,7 +464,7 @@ header nav {
 
 /*===== content =====*/
 #content .inside {
-	padding:22px 20px 30px 100px;
+	padding:22px 20px 0px 29px;
 }
 #content .ic, 
 #content .ic a {border:0;float:right;background:#000;color:#ff7b01;width:100%;line-height:10px;font-size:10px;margin:-50% 0 0 0;padding:0}
