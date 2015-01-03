@@ -276,12 +276,12 @@ p {
 		font-style:normal;
 		line-height:1.429em;
 		float:left;
-		width:295px;
+		width:100%;
 	}
 		.address address strong {
 			color:#008cc4;
-			width:94px !important;
-			width:91px;
+			width:250px;
+			
 			float:left;
 		}
 	.address .extra-wrap {
